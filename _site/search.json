@@ -1,6 +1,114 @@
 [
   
     {
+      "title"    : "GitHub Copilot - the shape of things to come.",
+      "category" : "",
+      "tags"     : "Development and Tools",
+      "url"      : "/GitHub-Copilot",
+      "date"     : "Jun 29, 2021",
+      "image": "/images/aipair0.png"
+    } ,
+  
+    {
+      "title"    : "Net Promoter Scores and the Successful Freelancer",
+      "category" : "",
+      "tags"     : "FreelancerContacts, Email Marketing, and Freelancing",
+      "url"      : "/net-promoter-scores-and-you",
+      "date"     : "Apr 29, 2021",
+      "image": "/images/NetPromoterScore.png"
+    } ,
+  
+    {
+      "title"    : "I&#39;m building 2 apps at the same time and I&#39;m not crazy.",
+      "category" : "",
+      "tags"     : "FreelancerCashFlow, Financials, and Freelancing",
+      "url"      : "/I'm-building-2-apps",
+      "date"     : "Apr 26, 2021",
+      "image": "/images/FreelancerCashFlow-screenshot1.png"
+    } ,
+  
+    {
+      "title"    : "Creating a stable Rails 6, Stimulus,TailwindCSS and custom font app",
+      "category" : "",
+      "tags"     : "Development and TailwindCSS",
+      "url"      : "/Creating-Rails6-with-TailwindCss",
+      "date"     : "Feb 7, 2021",
+      "image": "/images/tailwindcss.png"
+    } ,
+  
+    {
+      "title"    : "Good Help - especially when it comes to email marketing services - is hard to find.",
+      "category" : "",
+      "tags"     : "FreelancerCashFlow and Email Marketing",
+      "url"      : "/good-help",
+      "date"     : "Apr 9, 2020",
+      "image": "/images/goodhelp.png"
+    } ,
+  
+    {
+      "title"    : "A new resource for WFH: RemoteOrElse",
+      "category" : "",
+      "tags"     : "Remote and Covid-19",
+      "url"      : "/RemoteOrElse",
+      "date"     : "Apr 7, 2020",
+      "image": "/images/remoteorelse.png"
+    } ,
+  
+    {
+      "title"    : "Gather, study &amp; learn digitally with Readwise",
+      "category" : "",
+      "tags"     : "Productivity and Tools",
+      "url"      : "/ReadWise-is-awesome",
+      "date"     : "Feb 12, 2020",
+      "image": "/images/readwise.png"
+    } ,
+  
+    {
+      "title"    : "WordPress to Gridsome via Markdown in 2019 explained.",
+      "category" : "",
+      "tags"     : "Gridsome and Development",
+      "url"      : "/WordPress-to-gridsome-via-markdown-in-2019-explained",
+      "date"     : "Oct 23, 2019",
+      "image": "/images/47hatsnow2.png"
+    } ,
+  
+    {
+      "title"    : "Push goals are bad for you",
+      "category" : "",
+      "tags"     : "Productivity",
+      "url"      : "/push-goals-are-bad-for-you",
+      "date"     : "Oct 18, 2019",
+      "image": "/images/pushgoals.png"
+    } ,
+  
+    {
+      "title"    : "Why I switched to the JAMstack for my blog",
+      "category" : "",
+      "tags"     : "JAMstack",
+      "url"      : "/why-i-switched-to-the-jamstack",
+      "date"     : "Oct 17, 2019",
+      "image": ""
+    } ,
+  
+    {
+      "title"    : "Slack Cheatsheet added to LearnShortcuts.dev",
+      "category" : "",
+      "tags"     : "Projects",
+      "url"      : "/slack-cheatsheet-added-to-learnshortcuts-dev",
+      "date"     : "Sep 26, 2019",
+      "image": "/images/LearnShortcuts1.png"
+    } ,
+  
+    {
+      "title"    : "Better Web Working with Momentum",
+      "category" : "",
+      "tags"     : "Development and Productivity",
+      "url"      : "/better-web-working-with-momentum",
+      "date"     : "Aug 28, 2019",
+      "image": "/images/momentum2.png"
+    } ,
+  
+    {
       "title"    : "That which does not kill us makes us stronger",
       "category" : "",
       "tags"     : "Travel and Rest",
