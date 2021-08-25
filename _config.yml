@@ -7,7 +7,7 @@ hero-image: '/images/300.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
-blog-theme: light # You can use a `dark` or `light` theme.
+blog-theme: dark # You can use a `dark` or `light` theme.
 
 #-------------------------------
 # Authors Settings
